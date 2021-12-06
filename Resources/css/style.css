@@ -1,0 +1,40 @@
+* {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.main-title {
+    color: white;
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.title2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+.title3 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+img {
+    padding: 10px;
+}
+
+.copy {
+    text-align: right;
+}
